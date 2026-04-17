@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <url>
-        <loc>https://web-ai-media.pages.dev/</loc>
-    </url>
-
-    <url>
-        <loc>https://web-ai-media.pages.dev/article1.html</loc>
-    </url>
-
-    <url>
-        <loc>https://web-ai-media.pages.dev/article2.html</loc>
-    </url>
-
-    <url>
-        <loc>https://web-ai-media.pages.dev/article3.html</loc>
-    </url>
-
-    <url>
-        <loc>https://web-ai-media.pages.dev/article4.html</loc>
-    </url>
-
-    <url>
-        <loc>https://web-ai-media.pages.dev/comparison.html</loc>
-    </url>
+<url><loc>https://web-ai-media.pages.dev/</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article1.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article2.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article3.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article4.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article5.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article6.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article7.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article8.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article9.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/article10.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/comparison.html</loc></url>
 
 </urlset>
