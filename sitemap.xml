@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url><loc>https://web-ai-media.pages.dev/</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article1.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article2.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article3.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article4.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article5.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article6.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article7.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article8.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article9.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/article10.html</loc></url>
-<url><loc>https://web-ai-media.pages.dev/comparison.html</loc></url>
-
-
 <!-- トップ -->
 <url><loc>https://web-ai-media.pages.dev/</loc></url>
 
 <!-- 固定ページ -->
 <url><loc>https://web-ai-media.pages.dev/articles.html</loc></url>
 <url><loc>https://web-ai-media.pages.dev/comparison.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/work-env.html</loc></url>
+
+<!-- 楽天 -->
+<url><loc>https://web-ai-media.pages.dev/rakuten1.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/rakuten2.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/rakuten3.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/rakuten4.html</loc></url>
+<url><loc>https://web-ai-media.pages.dev/rakuten5.html</loc></url>
 
 <!-- 記事1〜60 -->
 <url><loc>https://web-ai-media.pages.dev/article1.html</loc></url>
