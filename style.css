@@ -329,6 +329,113 @@ h2, p, ul, .button-link {
     border-radius: 10px;
 }
 
+/* アフィリエイトカード */
+.affiliate-card {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    background: #f8fbff;
+    border: 1px solid #dbeafe;
+    border-radius: 16px;
+    padding: 20px;
+    margin-top: 16px;
+}
+
+.affiliate-card img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.affiliate-info {
+    flex: 1;
+}
+
+.affiliate-info h4 {
+    margin: 0 0 8px;
+    font-size: 18px;
+    color: #1e3a5f;
+}
+
+.affiliate-info p {
+    margin-bottom: 8px;
+}
+
+.price {
+    color: #c00;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+/* CTA補足 */
+.cta-note {
+    font-size: 14px;
+    color: #64748b;
+    margin-top: 8px;
+}
+
+/* 他のおすすめリンク */
+.related-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 16px;
+}
+
+/* 目次 */
+.toc {
+    background: #f8fbff;
+    border: 1px solid #dbeafe;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 28px 0;
+}
+
+.toc h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    color: #1e3a5f;
+}
+
+.toc ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.toc li {
+    margin-bottom: 8px;
+}
+
+/* TOPへ戻るボタン */
+#backToTop {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    width: 52px;
+    height: 52px;
+    border: none;
+    border-radius: 50%;
+    background: #1e3a5f;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    display: none;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    z-index: 999;
+}
+
+#backToTop:hover {
+    background: #2f5f8f;
+    transform: translateY(-2px);
+}
+
+/* スクロール時ヘッダー */
+.header-scrolled {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+    transition: 0.3s;
+}
+
 @media (max-width: 768px) {
     main {
         margin: 24px 16px;
@@ -362,5 +469,22 @@ h2, p, ul, .button-link {
 
     .rakuten-box td {
         font-size: 13px !important;
+    }
+
+    .affiliate-card {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .affiliate-card img {
+        width: 180px;
+    }
+
+    .affiliate-info {
+        width: 100%;
+    }
+
+    .related-buttons {
+        flex-direction: column;
     }
 }
